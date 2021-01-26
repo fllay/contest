@@ -16,4 +16,4 @@
  
  1949  sed 's/lef/left/g' class.json > class2.json
 
-./check.py -t N_UttaraditDaruni_3 -v N_UttaraditDaruni_5 -n KBAI-N02
+./check.py -t <TrainProject> -v <TestProject> -n <name>
