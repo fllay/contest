@@ -15,3 +15,5 @@
  1943  sed 's/lef/left/g' label.json > label2.json
  
  1949  sed 's/lef/left/g' class.json > class2.json
+
+./check.py -t N_UttaraditDaruni_3 -v N_UttaraditDaruni_5 -n KBAI-N02
