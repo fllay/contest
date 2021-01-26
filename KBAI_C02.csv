@@ -1,0 +1,76 @@
+        ,Backwardᴬ,Forwardᴬ ,Turnleftᴬ,Turnright
+Backwardᴾ ,20       ,0        ,0        ,0        
+
+Forwardᴾ  ,0        ,20       ,0        ,0        
+
+Turnleftᴾ ,0        ,0        ,20       ,0        
+
+Turnright ,0        ,0        ,0        ,20       
+
+        ,Backwardᴬ,Forwardᴬ ,Turnleftᴬ,Turnright
+fnr ,0.0      ,0.0      ,0.0      ,0.0      
+
+fpr ,0.0      ,0.0      ,0.0      ,0.0      
+
+mcc ,0.0      ,0.0      ,0.0      ,0.0      
+
+npv ,1.0      ,1.0      ,1.0      ,1.0      
+
+ppv ,1.0      ,1.0      ,1.0      ,1.0      
+
+tnr ,1.0      ,1.0      ,1.0      ,1.0      
+
+tpr ,1.0      ,1.0      ,1.0      ,1.0      
+
+recall ,1.0      ,1.0      ,1.0      ,1.0      
+
+f1score ,1.0      ,1.0      ,1.0      ,1.0      
+
+accuracy ,1.0      ,1.0      ,1.0      ,1.0      
+
+precision ,1.0      ,1.0      ,1.0      ,1.0      
+
+j-statistic ,1.0      ,1.0      ,1.0      ,1.0      
+
+sensitivity ,1.0      ,1.0      ,1.0      ,1.0      
+
+specificity ,1.0      ,1.0      ,1.0      ,1.0      
+
+        ,Backwardᴬ,Forwardᴬ ,Turnleftᴬ,Turnright
+Backwardᴾ ,25.00%   ,0.00%    ,0.00%    ,0.00%    
+
+Forwardᴾ  ,0.00%    ,25.00%   ,0.00%    ,0.00%    
+
+Turnleftᴾ ,0.00%    ,0.00%    ,25.00%   ,0.00%    
+
+Turnright ,0.00%    ,0.00%    ,0.00%    ,25.00%   
+
+        ,Backwardᴬ,Forwardᴬ ,Turnleftᴬ,Turnright
+fnr ,0.0      ,0.0      ,0.0      ,0.0      
+
+fpr ,0.0      ,0.0      ,0.0      ,0.0      
+
+mcc ,0.0      ,0.0      ,0.0      ,0.0      
+
+npv ,1.0      ,1.0      ,1.0      ,1.0      
+
+ppv ,1.0      ,1.0      ,1.0      ,1.0      
+
+tnr ,1.0      ,1.0      ,1.0      ,1.0      
+
+tpr ,1.0      ,1.0      ,1.0      ,1.0      
+
+recall ,1.0      ,1.0      ,1.0      ,1.0      
+
+f1score ,1.0      ,1.0      ,1.0      ,1.0      
+
+accuracy ,1.0      ,1.0      ,1.0      ,1.0      
+
+precision ,1.0      ,1.0      ,1.0      ,1.0      
+
+j-statistic ,1.0      ,1.0      ,1.0      ,1.0      
+
+sensitivity ,1.0      ,1.0      ,1.0      ,1.0      
+
+specificity ,1.0      ,1.0      ,1.0      ,1.0      
+
