@@ -318,7 +318,7 @@ def main(argv):
         print(pred)
 
         # Initialize Performance Class
-        performance = Performance(test,pred)
+        performance = Performance(pred,test)
         
         # Print Statistical Summary
         #performance.summarize()
