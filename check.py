@@ -267,13 +267,16 @@ def main(argv):
 
     categorical_threshold = 0.5
 
-    test_path = '/home/pi/kbclientNew/nectec-client/dist/' + traindir +'/audios'
+    test_path = '/home/pi/kbclientNew/nectec-client/dist/' + valdir +'/audios'
     anotationsPath = os.path.join(test_path, "class.json")
     audioPath = os.path.join(test_path, "wav")
-    model_path = '/home/pi/kbclientNew/nectec-client/dist/' + valdir + '/audios'
+    model_path = '/home/pi/kbclientNew/nectec-client/dist/' + traindir + '/audios'
 
     test = []
     pred = []
+
+    print(audioPath)
+    print(model_path)
 
     with open(os.path.join(model_path, 'label_map.pkl'), 'rb') as pkl_file:
         label_map = pickle.load(pkl_file)
